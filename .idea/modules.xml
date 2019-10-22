@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LearnSpring.iml" filepath="$PROJECT_DIR$/LearnSpring.iml" />
       <module fileurl="file://$PROJECT_DIR$/learnJdbcTemplate/learnJdbcTemplate.iml" filepath="$PROJECT_DIR$/learnJdbcTemplate/learnJdbcTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnMybatis/learnMybatis.iml" filepath="$PROJECT_DIR$/learnMybatis/learnMybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/learnproxy/learnproxy.iml" filepath="$PROJECT_DIR$/learnproxy/learnproxy.iml" />
     </modules>
   </component>

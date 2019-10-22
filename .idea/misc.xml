@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/learnproxy/pom.xml" />
         <option value="$PROJECT_DIR$/learnJdbcTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/learnMybatis/pom.xml" />
       </list>
     </option>
   </component>

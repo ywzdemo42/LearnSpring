@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="learnMybatis" />
         <module name="learnJdbcTemplate" />
         <module name="learnproxy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="learnJdbcTemplate" target="1.5" />
+      <module name="learnMybatis" target="1.5" />
       <module name="learnproxy" target="1.5" />
     </bytecodeTargetLevel>
   </component>

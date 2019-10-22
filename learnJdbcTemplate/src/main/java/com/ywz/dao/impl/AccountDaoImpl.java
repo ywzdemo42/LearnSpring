@@ -41,4 +41,5 @@ public class AccountDaoImpl implements IAccountDao {
     public void updateAccount(Account account) {
         jt.update("update account set name = ?,money = ? where id = ?",account.getName(),account.getMoney(),account.getId());
     }
+
 }
